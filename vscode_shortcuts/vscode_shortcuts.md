@@ -103,8 +103,8 @@
 
 ## Integrated terminal Shortcuts
 
-**Ctrl+`** Show integrated terminal <br />
-**Ctrl+Shift+`** Create new terminal <br />
+**Ctrl+\`** Show integrated terminal <br />
+**Ctrl+Shift+\`** Create new terminal <br />
 **Ctrl+Shift+C** Copy selection <br />
 **Ctrl+Shift+V** Paste into active terminal <br />
 **Ctrl+Shift+ ↑ / ↓** Scroll up/down <br />
