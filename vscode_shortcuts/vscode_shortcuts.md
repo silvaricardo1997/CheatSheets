@@ -44,7 +44,7 @@
 **Shift+Alt+ ↑ / ↓** Insert cursor above/below <br />
 **Ctrl+U** Undo last cursor operation <br />
 **Shift+Alt+I** Insert cursor at end of each line selected <br />
-**Ctrl+L Select** current line <br />
+**Ctrl+L** Select current line <br />
 **Ctrl+Shift+L** Select all occurrences of current selection <br />
 
 ## Display Shortcuts
